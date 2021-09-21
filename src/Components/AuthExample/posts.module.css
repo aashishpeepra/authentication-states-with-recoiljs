@@ -1,0 +1,11 @@
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+}
+.posts img{
+    margin: 1rem 0.5rem;
+    height: 33%;
+    width: 33%;
+    min-width: 100px;
+    min-height: 100px;
+}

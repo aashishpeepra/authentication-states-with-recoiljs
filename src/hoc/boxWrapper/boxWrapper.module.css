@@ -1,0 +1,21 @@
+.box{
+    width: 33vw;
+    min-width: 300px;
+    max-width: 400px;
+    height: 33vw;
+    min-height: 300px;
+    max-height: 400px;
+    padding: 2rem 2rem;
+    box-shadow: 1px 0px 5px 1px #ddd;
+    margin: 2rem;
+   
+    overflow-y: auto;
+}
+.box_bottom{
+    position: static;
+    bottom:0px;
+    font-size: 16px;
+    left:0px;
+    margin-bottom: 2rem;
+
+}
